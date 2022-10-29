@@ -13,3 +13,6 @@
     margin: 10px 0;
 }
 
+#order-id-display{
+    display: none;
+}
